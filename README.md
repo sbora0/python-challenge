@@ -7,11 +7,11 @@ PyBank Challenge
 -----------------
 For this task the requirement was to analyze the financial data from a csv called "budget_data.csv" using Python script and get the following information:
 
-The total number of months included in the dataset
-The net total amount of "Profit/Losses" over the entire period
-Tha average of changes in "Profit/Losses" over the entire period
-The greatest increase in profits (date and amount) over the entire period
-The greatest decrease in profits (date and amount) over the entire period
+The total number of months included in the dataset.
+The net total amount of "Profit/Losses" over the entire period.
+Tha average of changes in "Profit/Losses" over the entire period.
+The greatest increase in profits (date and amount) over the entire period.
+The greatest decrease in profits (date and amount) over the entire period.
 
 
 Files Information:
