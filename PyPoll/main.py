@@ -31,7 +31,7 @@ for i in range(len(candidates)-1):
 
 # Add the final candidate data to the list
 total_votes_each_candidate = total_votes_each_candidate + 1
-final_list.append([candidates[i],total_votes_each_candidate])
+final_list.append([candidates[i+1],total_votes_each_candidate])
 
 # Set path for writing the file
 csvpath = os.path.join("analysis", "election_data.txt")
