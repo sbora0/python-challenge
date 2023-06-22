@@ -16,9 +16,9 @@ For this task the requirement was to analyze the financial data from a csv calle
 
 Files Information:
 
-1. CSV file "budget_data.csv" is in Resources folder
+1. CSV file "budget_data.csv" is in PyBank\Resources folder
 2. Python script "main.py" is in PyBank folder
-3. Output text file "budget_data.txt" with the analyzed results is in analysis folder
+3. Output text file "budget_data.txt" with the analyzed results is in PyBank\analysis folder
 
 
 Output:
@@ -56,9 +56,9 @@ For this task the requirement was to modernise its vote-counting process of a ru
 
 Files Information:
 
-1. CSV file "election_data.csv" is in Resources folder
+1. CSV file "election_data.csv" is in PyPoll\Resources folder
 2. Python script "main.py" is in PyPoll folder
-3. Output text file "election_dat.txt" with the analyzed results is in analysis folder
+3. Output text file "election_dat.txt" with the analyzed results is in PyPoll\analysis folder
 
 
 Output:
